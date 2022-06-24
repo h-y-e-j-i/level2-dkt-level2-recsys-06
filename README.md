@@ -68,7 +68,7 @@ Wandb 0.12.15
 
 
 ## 📒 보고서
-[Report Notion Link](https://thundering-astronomy-d23.notion.site/RecSys-06-Level-2-P-Stage-DKT-f4ce25796e6a454b9bb916d94161347b)
+- [Notion](https://h-y-e-j-i.notion.site/DKT-4cb3de8ac0a745489919597a86799864)
 
 
 ## 📜 참고자료
